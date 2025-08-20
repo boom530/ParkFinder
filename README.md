@@ -3,9 +3,7 @@ https://www.figma.com/design/EJtIFu1DVLqKwya0acRsdV/Untitled?node-id=0-1&t=mSjC3
 
 # Persona
 Persona 1
-
 มายต์  นิสิตมหาวิทยาลัย
-
 ชื่อ: มายด์ ศิริพร
 อายุ: 21 ปี
 อาชีพ: นิสิตมหาวิทยาลัย ปี 3
